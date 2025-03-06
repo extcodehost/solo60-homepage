@@ -1,6 +1,5 @@
 
 
-<script>
 
   let splide1 = new Splide('.slider1', {
     perPage: 2,
@@ -124,4 +123,3 @@
     }
   });
 
-</script>
