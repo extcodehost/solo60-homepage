@@ -1,4 +1,4 @@
-
+ALERT('GITHUB');
 
 
   let splide1 = new Splide('.slider1', {
